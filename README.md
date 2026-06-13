@@ -1,7 +1,7 @@
 # AI Pneumonia Detector Workshop
 ### KISJ Medical Club 4-Week Fast-Track Program for AI in Medicine
 
-![Workshop Poster](assets/workshop-poster.png)
+![Workshop Poster](workshop-poster.png)
 
 This repository contains the full lecture notes and Google Colab notebook content for the **AI Pneumonia Detector Workshop**, a 4-week hands-on program hosted by the **Medical Club at Korea International School, Jeju Campus (KISJ)**.
 
