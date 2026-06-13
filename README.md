@@ -44,14 +44,14 @@ AI-Pneumonia-Detector-Workshop/
 ├── assets/
 │   └── workshop-poster.png
 |
-├── medicalclub-week-1.docx
 ├── medicalclub-week-1.ipynb
-├── medicalclub-week-2.docx
+├── medicalclub-week-1.pdf
 ├── medicalclub-week-2.ipynb
-├── medicalclub-week-3.docx
+├── medicalclub-week-2.pdf
 ├── medicalclub-week-3.ipynb
-├── medicalclub-week-4.docx
-└── medicalclub-week-4.ipynb
+├── medicalclub-week-3.pdf
+├── medicalclub-week-4.ipynb
+└── medicalclub-week-4.pdf
 ```
 
 ---
